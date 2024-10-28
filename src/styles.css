@@ -14,3 +14,6 @@ body {
 a {
     text-decoration: none;
 }
+:root {
+    --primary-color: #ff0059;
+}
